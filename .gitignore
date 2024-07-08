@@ -1,0 +1,15 @@
+/__pycache__
+
+app2.py
+
+setup.py
+
+test.py
+
+test_mod.py
+
+*.png
+
+chromedriver-win64.zip
+
+filtered_companies.xlsx
